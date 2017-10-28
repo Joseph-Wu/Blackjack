@@ -1,0 +1,21 @@
+[main] blackjack 1000 (0) exception: trapped!
+[main] blackjack 1000 (0) exception: code 0xC0000005 at 0x403BA7
+[main] blackjack 1000 (0) exception: ax 0xA032E38 bx 0x4185E8 cx 0x4 dx 0x18
+[main] blackjack 1000 (0) exception: si 0xA032E38 di 0xA032E80 bp 0x246FDA8 sp 0x246FD7C
+[main] blackjack 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] blackjack 1000 (0) stack: Stack trace:
+[main] blackjack 1000 (0) stack: frame 0: sp = 0x246F708, pc = 0x6100A2C3
+[main] blackjack 1000 (0) stack: frame 1: sp = 0x246F744, pc = 0x77E22D72
+[main] blackjack 1000 (0) stack: frame 2: sp = 0x246F768, pc = 0x77E22D44
+[main] blackjack 1000 (0) stack: frame 3: sp = 0x246F834, pc = 0x77E108EF
+[main] blackjack 1000 (0) stack: frame 4: sp = 0x246FDA8, pc = 0x4034E6
+[main] blackjack 1000 (0) stack: frame 5: sp = 0x246FEDC, pc = 0x4047CB
+[main] blackjack 1000 (0) stack: frame 6: sp = 0x246FEFC, pc = 0x61004402
+[main] blackjack 1000 (0) stack: frame 7: sp = 0x246FF48, pc = 0x61004420
+[main] blackjack 1000 (0) stack: frame 8: sp = 0x246FF54, pc = 0x416BAE
+[main] blackjack 1000 (0) stack: frame 9: sp = 0x246FF64, pc = 0x40103A
+[main] blackjack 1000 (0) stack: frame 10: sp = 0x246FF80, pc = 0x75F662C4
+[main] blackjack 1000 (0) stack: frame 11: sp = 0x246FF94, pc = 0x77E00FD9
+[main] blackjack 1000 (0) stack: frame 12: sp = 0x246FFDC, pc = 0x77E00FA4
+[main] blackjack 1000 (0) stack: frame 13: sp = 0x246FFEC, pc = 0x0
+[main] blackjack 1000 (0) stack: End of stack trace
